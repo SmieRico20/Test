@@ -12,7 +12,7 @@ using System.Text;
 using MySql.Data.MySqlClient;
 using System.Data;
 using System.Data.SqlClient;
-
+//smie03142020
 [WebService(Namespace = "http://tempuri.org/", Name= "MLHUILLIER")]
 [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
 // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
